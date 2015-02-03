@@ -1,0 +1,73 @@
+body {
+	Background: #A7DBD8;
+}
+h1 {
+	font-family: Verdana, georgia, serif;
+	font-weight: normal;
+	font-style: bold;
+	font-size: 50px;
+	line-height: 1.0;
+	text-transform: uppercase;
+	text-align: center; 
+	letter-spacing: .3em;
+}
+h2 {
+	font-family: Verdana, georgia, serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	letter-spacing: .1em;
+	text-align: center;
+	line-height: 3.0;
+}
+
+p {
+   font-family: georgia, serif;
+   min-height: 10em;
+   line-height: 5em;
+   font-size: 17px;
+}
+h4 {
+	font-family: verdana, georgia, serif;
+	font-style: bold;
+	font-weight: normal;
+	text-transform: uppercase;
+	line-height: .1;
+	font-size: 46px;
+	letter-spacing: .3em;
+	margin left: 20px;
+	text-align: center;
+}
+h5{
+	font-family: verdana, georgia, serif;
+	font-style: bold;
+	text-transform: uppercase;
+	line-height: .3;
+	font-size: 36px;
+	letter-spacing: .3em;
+	text-align: center;
+}
+
+a{
+	padding: 10px 10px 10px 10px;
+	text-decoration: none;
+	color: #ff0;
+	background-color: #fff;
+	transition: background-color: 1s ease-out;
+}
+
+a{
+	padding: 50px;
+	opacity: .5;
+	border-radius: 25%;
+	background-color: #A7DBD8;
+}
+p {
+	text-align: center;
+    vertical-align: center;
+	font-family: georgia, serif;
+	font-size: 16px;
+	min-height: 10em;
+	line-height: 3em;
+}
+
