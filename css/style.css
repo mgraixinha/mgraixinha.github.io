@@ -11,6 +11,12 @@ h1 {
 	text-align: center; 
 	letter-spacing: .3em;
 }
+
+@font-face{
+	font-family: Arizona;
+	src: url(http://www.fontsquirrel.com/fonts/arizonia)
+}
+	
 h2 {
 	font-family: Verdana, georgia, serif;
 	font-style: normal;
